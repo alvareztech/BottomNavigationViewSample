@@ -1,8 +1,9 @@
 # BottomNavigationView Sample
 
-A simple example of component "BottomNavigationView"
+A simple example of new component "BottomNavigationView"
 
-![Screenshot](https://cloud.githubusercontent.com/assets/1444991/19582357/c84411b6-9701-11e6-8519-f89e4c43f21c.png)
+<img width="300" alt="bnv1" src="https://user-images.githubusercontent.com/1444991/27511865-24234944-58fd-11e7-89a7-cb5262b4d307.png">
+<img width="300" alt="bnv2" src="https://user-images.githubusercontent.com/1444991/27511866-245b9f2e-58fd-11e7-83af-afe00acdf55c.png">
 
 ## Dependencies
 

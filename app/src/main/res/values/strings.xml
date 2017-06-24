@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">BottomNavigationViewSample</string>
-    <string name="inicio">Inicio</string>
-    <string name="buscar">Buscar</string>
-    <string name="camara">Cámara</string>
-    <string name="favoritos">Favoritos</string>
-    <string name="perfil">Perfil</string>
+    <string name="app_name" translatable="false">BottomNavigationView</string>
+    <string name="inicio">Home</string>
+    <string name="buscar">Search</string>
+    <string name="camara">Camera</string>
+    <string name="favoritos">Favorites</string>
+    <string name="perfil">Profile</string>
 </resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="buscar">Buscar</string>
+    <string name="camara">Cámara</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="inicio">Inicio</string>
+    <string name="perfil">Perfil</string>
+</resources>
