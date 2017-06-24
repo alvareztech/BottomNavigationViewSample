@@ -10,7 +10,7 @@ A simple example of new component "BottomNavigationView"
 <td>
 <img alt="bnv2" src="https://user-images.githubusercontent.com/1444991/27511866-245b9f2e-58fd-11e7-83af-afe00acdf55c.png">
 </td>
-<td>
+</tr>
 </table>
 
 ## Dependencies
