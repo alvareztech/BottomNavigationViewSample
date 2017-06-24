@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
                     infoTextView.setText(R.string.perfil);
                 }
 
-                return false;
+                return true;
             }
         });
     }
