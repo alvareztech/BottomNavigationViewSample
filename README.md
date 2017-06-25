@@ -21,6 +21,12 @@ A simple example of new component "BottomNavigationView"
 
 [alvarez.tech/labs/android-bottom-navigation-view](https://alvarez.tech/labs/android-bottom-navigation-view)
 
+## Versions
+
+1. Video version (master branch)
+2. Without animation (remove-shift branch)
+3. With fragments (fragments branch)
+
 ## Resources
 
 * [Documentation](https://developer.android.com/reference/android/support/design/widget/BottomNavigationView.html)
