@@ -1,6 +1,6 @@
 # BottomNavigationView Sample
 
-A simple example of new component "BottomNavigationView"
+A simple example of new Android component `BottomNavigationView`
 
 <table border="0">
 <tr>
@@ -19,7 +19,7 @@ A simple example of new component "BottomNavigationView"
 
 ## Tutorial
 
-[alvarez.tech/labs/android-bottom-navigation-view](https://alvarez.tech/labs/android-bottom-navigation-view)
+[alvarez.tech/videos/android/implement-bottom-navigation-view/](https://alvarez.tech/videos/android/implement-bottom-navigation-view/)
 
 ## Versions
 
