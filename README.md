@@ -23,7 +23,7 @@ implementation 'com.google.android.material:material:1.1.0'
 
 ## Tutorial
 
-[alvarez.tech/videos/android/implement-bottom-navigation-view/](https://alvarez.tech/videos/android/implement-bottom-navigation-view/)
+[alvarez.tech/android-implement-bottom-navigation-view](https://alvarez.tech/android-implement-bottom-navigation-view)
 
 ## Versions
 
