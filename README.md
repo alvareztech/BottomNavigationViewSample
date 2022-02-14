@@ -19,7 +19,7 @@ A simple example of new component "BottomNavigationView"
 
 ## Tutorial
 
-[alvarez.tech/labs/android-bottom-navigation-view](https://alvarez.tech/labs/android-bottom-navigation-view)
+[alvarez.tech/android-implement-bottom-navigation-view](https://alvarez.tech/android-implement-bottom-navigation-view)
 
 ## Resources
 
