@@ -1,10 +1,8 @@
 package tech.alvarez.bottomnavigationviewsample;
 
 import android.os.Bundle;
-import android.view.MenuItem;
 import android.widget.TextView;
 
-import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.material.badge.BadgeDrawable;
@@ -24,24 +22,19 @@ public class MainActivity extends AppCompatActivity {
 
         bottomNavigationView = findViewById(R.id.bottomNavigationView);
 
-        bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
-            @Override
-            public boolean onNavigationItemSelected(@NonNull MenuItem item) {
-
-                if (item.getItemId() == R.id.inicioItem) {
-                    infoTextView.setText(R.string.inicio);
-                } else if (item.getItemId() == R.id.buscarItem) {
-                    infoTextView.setText(R.string.buscar);
-                } else if (item.getItemId() == R.id.camaraItem) {
-                    infoTextView.setText(R.string.camara);
-                } else if (item.getItemId() == R.id.favoritosItem) {
-                    infoTextView.setText(R.string.favoritos);
-                } else if (item.getItemId() == R.id.perfilItem) {
-                    infoTextView.setText(R.string.perfil);
-                }
-
-                return true;
+        bottomNavigationView.setOnItemSelectedListener(item -> {
+            if (item.getItemId() == R.id.inicioItem) {
+                infoTextView.setText(R.string.inicio);
+            } else if (item.getItemId() == R.id.buscarItem) {
+                infoTextView.setText(R.string.buscar);
+            } else if (item.getItemId() == R.id.camaraItem) {
+                infoTextView.setText(R.string.camara);
+            } else if (item.getItemId() == R.id.favoritosItem) {
+                infoTextView.setText(R.string.favoritos);
+            } else if (item.getItemId() == R.id.perfilItem) {
+                infoTextView.setText(R.string.perfil);
             }
+            return true;
         });
 
         BadgeDrawable badge = bottomNavigationView.getOrCreateBadge(R.id.inicioItem);

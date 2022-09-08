@@ -1,7 +1,5 @@
 # BottomNavigationView Sample
 
-[![@alvarez_tech](https://img.shields.io/badge/twitter-@alvarez_tech-blue.svg)](https://twitter.com/alvarez_tech)
-
 A simple example of new Android component `BottomNavigationView`.
 
 <table border="0">
@@ -18,7 +16,7 @@ A simple example of new Android component `BottomNavigationView`.
 ## Dependencies
 
 ```groovy
-implementation 'com.google.android.material:material:1.1.0'
+implementation 'com.google.android.material:material:1.6.1'
 ```
 
 ## Tutorial
@@ -27,7 +25,7 @@ implementation 'com.google.android.material:material:1.1.0'
 
 ## Versions
 
-1. AndroidX version (master branch)
+1. AndroidX version (main branch)
 2. Video version (video branch)
 3. Without animation (remove-shift branch)
 4. With fragments (fragments branch)
