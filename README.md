@@ -25,10 +25,10 @@ implementation 'com.google.android.material:material:1.6.1'
 
 ## Versions
 
-1. AndroidX version (main branch)
-2. Video version (video branch)
-3. Without animation (remove-shift branch)
-4. With fragments (fragments branch)
+1. Basic version one Activity: `main` branch (updated)
+2. Fragments version: `fragments` branch (updated)
+3. Video tutorial version: `video` branch (deprecated)
+4. Without animation version: `remove-shift` branch (deprecated)
 
 ## Resources
 
